@@ -1,0 +1,2 @@
+# Churn-Prediction
+Our Churn Prediction project, using data from a telecommunications service, aimed to forecast customer churn. After data cleaning and encoding, we employed an Artificial Neural Network (ANN) model. This model delivered strong results with an 80% accuracy rate. This project equips businesses with the tools to identify potential churners and take action to retain customers effectively, enhancing overall customer satisfaction and business sustainability.
